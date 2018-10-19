@@ -1,2 +1,4 @@
-# Code-Test-Run
-This is for assignment 606
+size(500,500(;
+
+color(40,40,40);
+rect(300,300,200,200);
